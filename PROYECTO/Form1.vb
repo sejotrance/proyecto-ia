@@ -10,11 +10,11 @@
     End Sub
 
     Private Sub TrackBar1_Scroll(sender As System.Object, e As System.EventArgs) Handles TrackBar1.Scroll
-        Label7.Text = TrackBar1.Value * 0.01
+        Me.Label7.Text = Me.TrackBar1.Value * 0.01
     End Sub
 
     Private Sub TrackBar2_Scroll(sender As System.Object, e As System.EventArgs) Handles TrackBar2.Scroll
-        Label8.Text = TrackBar2.Value * 0.01
+        Me.Label8.Text = Me.TrackBar2.Value * 0.01
     End Sub
 
     Private Sub TrackBar3_Scroll(sender As Object, e As EventArgs) Handles TrackBar3.Scroll
@@ -121,4 +121,5 @@
         Me.Label15.Visible = True
 
     End Sub
+
 End Class
