@@ -31,3 +31,4 @@ D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsAp
 D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
 D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form2.resources
 D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form3.resources
+D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form4.resources
