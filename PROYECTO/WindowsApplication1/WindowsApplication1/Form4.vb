@@ -41,7 +41,11 @@
         Dim suma As Double = Form1.Suma_Fuzzy(Form1.Suma_Fuzzy(Form1.Suma_Fuzzy(v0, v1), v2), v3)
         Dim o3 = Form1.Multiplica_Fuzzy(v6, suma)
 
-        Me.Label15.Text = o3
+        If (o3 <= 0.49) Then
+            Me.Label15.Text = "No se observa retraso en los vuelos"
+        Else
+            Me.Label15.Text = "Puede presentarse un retraso en los vuelos"
+        End If
         Me.Label15.Visible = True
 
     End Sub

@@ -48,7 +48,11 @@
         Dim multiplica As Double = Form1.Multiplica_Fuzzy(v7, numerador)
         Dim o2 = Form1.Divide_Fuzzy(multiplica, v8)
 
-        Me.Label15.Text = o2
+        If (o2 <= 0.49) Then
+            Me.Label15.Text = "No se preveen accidentes en la loza"
+        Else
+            Me.Label15.Text = "Alta posibilidad de accidentes en la loza"
+        End If
         Me.Label15.Visible = True
 
     End Sub

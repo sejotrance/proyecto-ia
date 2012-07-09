@@ -113,11 +113,18 @@
         Dim v5 As Double = Me.TrackBar6.Value * 0.01
 
         '        O1= (V0+V1+V2+V3)/(V4+V5)           '
-        Dim numerador As Double = Suma_Fuzzy(Suma_Fuzzy(Suma_Fuzzy(v0, v1), v2), v3)
+        Dim aux1 As Double = Suma_Fuzzy(v0, v1)
+        Dim aux2 As Double = Suma_Fuzzy(aux1, v2)
+        Dim numerador As Double = Suma_Fuzzy(aux2, v3)
+        Suma_Fuzzy(Suma_Fuzzy(Suma_Fuzzy(v0, v1), v2), v3)
         Dim denominador As Double = Suma_Fuzzy(v4, v5)
         Dim o1 = Divide_Fuzzy(numerador, denominador)
-
-        Me.Label15.Text = o1
+        'Me.Label15.Text = o1
+        If (o1 <= 0.49) Then
+            Me.Label15.Text = "Mantener el aeropuerto abierto"
+        Else
+            Me.Label15.Text = "Se recomienda cerrar el aeropuerto"
+        End If
         Me.Label15.Visible = True
 
     End Sub
