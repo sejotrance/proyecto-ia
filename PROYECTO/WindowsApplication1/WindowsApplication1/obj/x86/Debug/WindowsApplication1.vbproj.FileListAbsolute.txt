@@ -32,3 +32,17 @@ D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsAp
 D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form2.resources
 D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form3.resources
 D:\SEJO\Mis documentos\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form4.resources
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form1.resources
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form3.resources
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form4.resources
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Form2.resources
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\windowsapplication1.Resources.resources
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sergio\Documents\GitHub\proyecto-ia\PROYECTO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
